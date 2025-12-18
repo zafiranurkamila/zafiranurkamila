@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Spring Boot, Next.js, and Cloud Technologies**
 - 💼 Building scalable web applications with modern technologies
 - 💬 Ask me about **React, Next.js, Spring Boot, PHP, and Database Design**
-- 📫 How to reach me: **[Your Email]** (update with your email)
+- 📫 How to reach me: **zafiranurkamila@gmail.com**
 - ⚡ Fun fact: I love creating user-friendly interfaces and solving complex problems! 
 
 ## 🛠️ Tech Stack
