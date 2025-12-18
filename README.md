@@ -1,10 +1,10 @@
-<img src="https://drive.google.com/file/d/1tEqil6i-emA6EAm39j1JmRK5a5NjamEu/view?usp=sharing" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/nama-file.jpg" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Zafira Nur Kamila</h1>
 <h3 align="center">A Passionate Full-Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/? username=zafiranurkamila&label=Profile%20views&color=0e75b6&style=flat" alt="zafiranurkamila" />
+  <img src="https://komarev.com/ghpvc/?username=zafiranurkamila&label=Profile%20views&color=0e75b6&style=flat" alt="zafiranurkamila" />
 </p>
 
 ## 👨‍💻 About Me
