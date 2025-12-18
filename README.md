@@ -87,7 +87,7 @@ Collection of web development projects showcasing various techniques.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp. com/?user=zafiranurkamila&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafiranurkamila&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
