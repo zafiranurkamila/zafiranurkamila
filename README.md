@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/67/1c/9e/671c9e1daa2c96ae5c623363e3af30bb.jpg" alt="GitHub Banner" width="100%" />
+<img src="https://drive.google.com/file/d/1tEqil6i-emA6EAm39j1JmRK5a5NjamEu/view?usp=sharing" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Zafira Nur Kamila</h1>
 <h3 align="center">A Passionate Full-Stack Developer 🚀</h3>
@@ -38,7 +38,7 @@
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000? style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Featured Projects
