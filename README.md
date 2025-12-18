@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/nama-file.jpg" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/WIN_20250410_15_12_35_Pro.jpg" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Zafira Nur Kamila</h1>
 <h3 align="center">A Passionate Full-Stack Developer 🚀</h3>
