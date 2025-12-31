@@ -39,7 +39,7 @@
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000? style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Featured Projects
@@ -82,14 +82,29 @@ Collection of web development projects showcasing various techniques.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com? user=zafiranurkamila&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+<p align="center">
+  <a href="https://github.com/zafiranurkamila">
+    <img src="https://github-readme-stats.vercel. app/api?username=zafiranurkamila&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<p align="center">
+  <a href="https://github.com/zafiranurkamila">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=algolia" alt="Top Languages" />
+  </a>
+</p>
 
-</div>
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/? username=zafiranurkamila&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  </a>
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafiranurkamila&custom_title=Zafira's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ## 🤝 Connect with Me
 
