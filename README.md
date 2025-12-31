@@ -15,7 +15,7 @@
 - 💼 Building scalable web applications with modern technologies
 - 💬 Ask me about **React, Next.js, Spring Boot, PHP, and Database Design**
 - 📫 How to reach me: **zafiranurkamila@gmail.com**
-- ⚡ Fun fact: I love creating user-friendly interfaces and solving complex problems! 
+- ⚡ Fun fact: I love creating user-friendly interfaces and solving complex problems!  
 
 ## 🛠️ Tech Stack
 
@@ -39,19 +39,19 @@
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000? style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Featured Projects
 
 ### 💰 [FinansiaLin](https://github.com/zafiranurkamila/frontend-finansialin)
-A modern financial management web application to help users track transactions, manage budgets, and analyze financial data. 
+A modern financial management web application to help users track transactions, manage budgets, and analyze financial data.  
 - **Tech:** Next.js 14, React, Google Generative AI, Recharts
 - **Features:** Transaction tracking, budget planning, AI-powered insights, PDF/Excel exports
 - **Highlights:** Full-featured dashboard with analytics and data visualization
 
 ### 📚 [BooQu - Spring RESTful API](https://github.com/zafiranurkamila/booqu-spring-restful-api)
-A comprehensive library management system backend built with Spring Boot. 
+A comprehensive library management system backend built with Spring Boot.  
 - **Tech:** Spring Boot, JPA/Hibernate, PostgreSQL, Spring Security
 - **Features:** Book loan management, member management, overdue tracking
 - **Highlights:** RESTful API design with proper security and validation
@@ -69,7 +69,7 @@ A dynamic coffee shop website with database integration.
 - **Highlights:** Clean PHP architecture with secure database connections
 
 ### 🛋️ [Modern Furniture Shop](https://github.com/zafiranurkamila/workshop)
-Responsive e-commerce website for modern furniture.
+Responsive e-commerce website for modern furniture. 
 - **Tech:** HTML, CSS, JavaScript
 - **Features:** Product gallery, shopping interface, responsive design
 - **Highlights:** Modern UI with smooth animations and transitions
@@ -87,8 +87,7 @@ Collection of web development projects showcasing various techniques.
 </p>
 
 <p align="center">
-  <!-- Yang benar (tanpa spasi) -->
-<img src="https://github-readme-streak-stats. herokuapp. com/?user=zafiranurkamila&theme=radical" />
+  <img src="https://github-readme-streak-stats. herokuapp.com/?user=zafiranurkamila&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
