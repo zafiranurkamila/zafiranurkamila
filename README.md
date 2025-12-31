@@ -80,30 +80,16 @@ Collection of web development projects showcasing various techniques.
 - **Features:** Form validation, interactive elements, modern design
 - **Highlights:** Clean code structure with best practices
 
-## 📊 GitHub Stats
+## 🔥 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/zafiranurkamila">
-    <img src="https://github-readme-stats.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafiranurkamila&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/zafiranurkamila">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=algolia" alt="Top Languages" />
-  </a>
-</p>
+## 🏆 Achievements
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zafiranurkamila&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-  </a>
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafiranurkamila&custom_title=Zafira's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zafiranurkamila&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ## 🤝 Connect with Me
