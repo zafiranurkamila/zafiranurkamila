@@ -82,11 +82,15 @@ Collection of web development projects showcasing various techniques.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=radical)
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=radical&hide_border=true)](https://github.com/zafiranurkamila)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zafiranurkamila&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zafiranurkamila&theme=radical&hide_border=true)](https://github.com/zafiranurkamila)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=radical&hide_border=true)](https://github.com/zafiranurkamila)
+
+</div>
 
 ## 🤝 Connect with Me
 
