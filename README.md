@@ -84,7 +84,7 @@ Collection of web development projects showcasing various techniques.
 
 <p align="center">
   <a href="https://github.com/zafiranurkamila">
-    <img src="https://github-readme-stats.vercel. app/api?username=zafiranurkamila&show_icons=true&theme=algolia" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=algolia" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@ Collection of web development projects showcasing various techniques.
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/? username=zafiranurkamila&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zafiranurkamila&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
   </a>
 </p>
 
