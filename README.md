@@ -133,7 +133,7 @@ Collection of backend development projects showcasing various techniques.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-65%25-ED8B00?style=flat-square&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Spring_Boot-60%25-6DB33F? style=flat-square&logo=spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-60%25-6DB33F?style=flat-square&logo=spring" />
   <img src="https://img.shields.io/badge/PostgreSQL-55%25-316192?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/PHP-35%25-777BB4?style=flat-square&logo=php" />
   <img src="https://img.shields.io/badge/MySQL-30%25-005C84?style=flat-square&logo=mysql" />
