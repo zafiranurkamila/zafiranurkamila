@@ -9,12 +9,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Backend Development Projects**
+- 🔭 I'm currently working on **Backend Development & Full-Stack Projects**
 - 🌱 I'm currently learning **Spring Boot, Microservices, and Cloud Technologies**
-- 💼 Building scalable and robust backend systems
-- 💬 Ask me about **Spring Boot, Java, RESTful APIs, PHP, and Database Design**
+- 💼 Building scalable backend systems with modern frontend integration
+- 💬 Ask me about **Spring Boot, Java, RESTful APIs, Next.js, and Database Design**
 - 📫 How to reach me: **zafiranurkamila@gmail.com**
-- ⚡ Fun fact: I love optimizing database queries and building efficient APIs!   
+- ⚡ Fun fact: I love optimizing database queries and creating seamless API integrations!    
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +23,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frontend (Integration)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,41 +43,42 @@
 
 ## 🚀 Featured Projects
 
-### 💰 [FinansiaLin Backend](https://github.com/zafiranurkamila/frontend-finansialin)
-A modern financial management backend API to handle transactions, budgets, and financial data analysis.  
-- **Tech:** Spring Boot, PostgreSQL, Spring Security
-- **Features:** Transaction management, budget tracking, RESTful API endpoints
-- **Highlights:** Secure authentication and optimized database queries
+### 💰 [FinansiaLin - Full-Stack Finance App](https://github.com/zafiranurkamila/frontend-finansialin)
+A modern financial management web application with powerful backend API and intuitive frontend.  
+- **Tech:** Next.js 14, React, Google Generative AI, Recharts | Backend API integration
+- **Features:** Transaction tracking, budget planning, AI-powered insights, PDF/Excel exports
+- **Backend Highlights:** RESTful API design, secure authentication, optimized database queries
+- **Frontend Highlights:** Responsive dashboard with real-time data visualization
 
 ### 📚 [BooQu - Spring RESTful API](https://github.com/zafiranurkamila/booqu-spring-restful-api)
-A comprehensive library management system backend built with Spring Boot.   
+A comprehensive library management system backend built with Spring Boot.    
 - **Tech:** Spring Boot, JPA/Hibernate, PostgreSQL, Spring Security
-- **Features:** Book loan management, member management, overdue tracking
-- **Highlights:** RESTful API design with proper security and validation
+- **Features:** Book loan management, member management, overdue tracking, RESTful endpoints
+- **Highlights:** Production-ready API with proper validation, error handling, and security
 
-### 📖 [BooQu Backend](https://github.com/zafiranurkamila/booqu-backend)
-Backend service for library management with advanced features.
+### 📖 [BooQu Backend Service](https://github.com/zafiranurkamila/booqu-backend)
+Enhanced backend service for library management with advanced features. 
 - **Tech:** Spring Boot, PostgreSQL, Spring Security, Maven
-- **Features:** Complete CRUD operations, authentication, data persistence
-- **Highlights:** Production-ready backend with actuator monitoring
+- **Features:** Complete CRUD operations, JWT authentication, data persistence, actuator monitoring
+- **Highlights:** Scalable architecture with clean code and comprehensive documentation
 
-### ☕ [Coffee Shop API](https://github.com/zafiranurkamila/Tugas)
-A dynamic coffee shop backend with database integration.
-- **Tech:** PHP, MySQL
-- **Features:** User authentication, product management, session handling
-- **Highlights:** Clean PHP architecture with secure database connections
+### ☕ [Coffee Shop Website - Full-Stack](https://github.com/zafiranurkamila/Tugas)
+A dynamic coffee shop website with complete frontend and backend integration.
+- **Tech:** PHP (Backend), MySQL (Database), HTML, CSS, JavaScript (Frontend)
+- **Features:** User authentication, product management, shopping cart, session handling
+- **Highlights:** Clean MVC architecture with secure API endpoints and responsive UI
 
-### 🛋️ [E-Commerce Backend](https://github.com/zafiranurkamila/workshop)
-Backend API for modern furniture e-commerce platform.  
-- **Tech:** PHP, MySQL
-- **Features:** Product management, order processing, inventory tracking
-- **Highlights:** Efficient database design and query optimization
+### 🛋️ [Modern Furniture Shop - E-Commerce](https://github.com/zafiranurkamila/workshop)
+Responsive e-commerce platform for modern furniture with backend integration.  
+- **Tech:** HTML, CSS, JavaScript (Frontend) | PHP, MySQL (Backend)
+- **Features:** Product catalog, shopping interface, inventory management, order processing
+- **Highlights:** Modern UI with smooth animations and efficient backend API
 
-### 🌐 [Web Backend Projects](https://github.com/zafiranurkamila/PengembanganWeb)
-Collection of backend development projects showcasing various techniques.
-- **Tech:** Java, PHP, MySQL, PostgreSQL
-- **Features:** API development, database design, authentication systems
-- **Highlights:** Clean code architecture with best practices
+### 🌐 [Web Development Portfolio](https://github.com/zafiranurkamila/PengembanganWeb)
+Collection of full-stack web development projects showcasing various techniques.
+- **Tech:** HTML, CSS, JavaScript, PHP, MySQL
+- **Features:** Form validation, API integration, database operations, interactive elements
+- **Highlights:** Clean code structure with both frontend and backend best practices
 
 ## 💻 GitHub Activity
 
@@ -81,9 +88,9 @@ Collection of backend development projects showcasing various techniques.
       <h3>📊 Coding Stats</h3>
       <p>
         🔥 <b>40+</b> Public Repositories<br/>
-        ⭐ Building Backend Systems<br/>
+        ⭐ Backend + Full-Stack Projects<br/>
         💼 Focus: Spring Boot & APIs<br/>
-        🎯 Database Optimization Expert
+        🎯 Database & API Expert
       </p>
     </td>
     <td align="center" width="50%">
@@ -91,7 +98,7 @@ Collection of backend development projects showcasing various techniques.
       <p>
         🌱 Microservices Architecture<br/>
         📚 Advanced Spring Boot<br/>
-        💡 Cloud Deployment<br/>
+        💡 Next.js API Integration<br/>
         🔧 DevOps & Docker
       </p>
     </td>
@@ -103,40 +110,42 @@ Collection of backend development projects showcasing various techniques.
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-Pro-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database_Expert-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full_Stack-Capable-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API_Design-Expert-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem_Solver-Daily-FFC107?style=for-the-badge" />
 </p>
 
 ## 📈 Development Journey
 
 ```
-2024  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Spring Boot & Microservices
-2023  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░  Backend Development & APIs
-2022  ▰▰▰▰▰▰▰▰░░░░░░░░░░░░  Java & Database Fundamentals
+2024  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Spring Boot, Microservices & Full-Stack
+2023  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░  Backend APIs & Frontend Integration
+2022  ▰▰▰▰▰▰▰▰░░░░░░░░░░░░  Java, PHP & Database Fundamentals
 ```
 
 ## 🎯 Key Achievements
 
-✅ Built **RESTful APIs** for multiple production applications  
-✅ Developed **BooQu** - Complete library management backend  
-✅ Mastered **Spring Boot**, **JPA/Hibernate**, and **PostgreSQL**  
-✅ Implemented secure **authentication & authorization** systems  
-✅ Optimized database queries for **high-performance** applications  
+✅ Built **FinansiaLin** - Full-stack finance app with AI integration  
+✅ Developed **BooQu** - Production-ready library management API  
+✅ Created multiple **RESTful APIs** with Spring Boot  
+✅ Mastered **frontend-backend integration** with Next.js & Spring Boot  
+✅ Implemented secure **authentication systems** (JWT, Session, Spring Security)  
+✅ Optimized **database queries** for high-performance applications  
 
 ## 📊 Most Used Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-65%25-ED8B00?style=flat-square&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Spring_Boot-60%25-6DB33F?style=flat-square&logo=spring" />
-  <img src="https://img.shields.io/badge/PostgreSQL-55%25-316192?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Java-60%25-ED8B00? style=flat-square&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring_Boot-55%25-6DB33F?style=flat-square&logo=spring" />
+  <img src="https://img.shields.io/badge/JavaScript-50%25-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-50%25-316192?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/PHP-35%25-777BB4?style=flat-square&logo=php" />
-  <img src="https://img.shields.io/badge/MySQL-30%25-005C84?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/TypeScript-30%25-3178C6?style=flat-square&logo=typescript" />
 </p>
 
 ## 🤝 Connect with Me
@@ -145,8 +154,8 @@ Collection of backend development projects showcasing various techniques.
   <a href="https://www.linkedin.com/in/zafiranurkamila/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/kamila.zafira?igsh=MXdjejN0N3BuZ3Zmdw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/kamila. zafira? igsh=MXdjejN0N3BuZ3Zmdw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F? style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:zafiranurkamila@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -163,5 +172,5 @@ Collection of backend development projects showcasing various techniques.
 </p>
 
 <p align="center">
-  <i>"Building robust backends, one API at a time"</i>
+  <i>"Building robust backends with seamless frontend integration"</i>
 </p>
