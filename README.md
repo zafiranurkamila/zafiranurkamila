@@ -84,11 +84,10 @@ Collection of web development projects showcasing various techniques.
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=radical&hide_border=true)](https://github.com/zafiranurkamila)
+<img src="https://github-readme-stats.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com? user=zafiranurkamila&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zafiranurkamila&theme=radical&hide_border=true)](https://github.com/zafiranurkamila)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=radical&hide_border=true)](https://github.com/zafiranurkamila)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 
 </div>
 
