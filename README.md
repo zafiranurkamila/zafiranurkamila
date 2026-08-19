@@ -1,20 +1,13 @@
-<!-- Banner / Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/WIN_20250410_15_12_35_Pro.jpg" alt="Banner" width="100%" />
-</div>
+<!-- Header: text kiri, foto kanan -->
+<img align="right" width="280" src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/WIN_20250410_15_12_35_Pro.jpg" alt="Zafira Nur Kamila" />
 
-<h1 align="center">
-  Hi, I'm Zafira Nur Kamila
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h1>
+<h1>Hi, I'm Zafira Nur Kamila 👋</h1>
 
-<div align="center">
-  <a href="https://github.com/zafiranurkamila">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Frontend+Developer+%7C+QA+Engineer;Building+robust+APIs+and+seamless+user+experiences;Passionate+about+clean+code+and+quality+assurance" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://github.com/zafiranurkamila">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&width=520&lines=Backend+Developer;Frontend+Developer;QA+Engineer;Building+robust+APIs+%26+quality+software" alt="Typing SVG" />
+</a>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=zafiranurkamila&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/zafiranurkamila?tab=followers">
     <img src="https://img.shields.io/github/followers/zafiranurkamila?label=Followers&style=flat&color=0e75b6" alt="Followers" />
@@ -22,27 +15,33 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Frontend%20%7C%20QA-6DB33F?style=flat" alt="Focus" />
 </p>
 
+**Backend • Frontend • QA Engineer** based in Indonesia 🇮🇩
+
+Passionate about building **robust APIs**, **seamless user experiences**, and **quality-driven software**. Currently exploring microservices, advanced testing frameworks, and CI/CD pipelines.
+
+📫 Reach me at **zafiranurkamila@gmail.com**
+
+<br clear="right"/>
+
 ---
 
 ## About Me
 
 ```yaml
 name: Zafira Nur Kamila
-role: Backend • Frontend • QA
+role: Backend • Frontend • QA Engineer
 location: Indonesia
 currently_working_on:
   - "Backend systems with Spring Boot & Laravel"
-  - "Frontend applications with Next.js & React"
-  - "Automated testing & quality assurance"
+  - "Frontend apps with Next.js & React"
+  - "Test automation with Katalon & PHPUnit"
 currently_learning:
   - "Microservices architecture"
-  - "Advanced testing frameworks"
+  - "Advanced test automation"
   - "CI/CD pipelines"
 ask_me_about:
-  - "REST API design"
-  - "Full-stack integration"
+  - "REST API design & Full-stack integration"
   - "Test automation & QA workflows"
-contact: zafiranurkamila@gmail.com
 fun_fact: "I break things (on purpose) to make them stronger."
 ```
 
@@ -62,11 +61,13 @@ fun_fact: "I break things (on purpose) to make them stronger."
 
 ### QA & Testing
 <p>
+  <img src="https://img.shields.io/badge/Katalon_Studio-2E96FF?style=for-the-badge&logo=katalon&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/PHPUnit-6DB33F?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manual_Testing-0078D4?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/API_Testing-009688?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual_Testing-0078D4?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </p>
 
 ### Database
@@ -174,15 +175,11 @@ fun_fact: "I break things (on purpose) to make them stronger."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafiranurkamila&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=zafiranurkamila&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zafiranurkamila&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafiranurkamila&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 </div>
 
 ---
@@ -190,7 +187,7 @@ fun_fact: "I break things (on purpose) to make them stronger."
 ## Development Journey
 
 ```
-2026  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Full-Stack + QA + Computer Vision
+2026  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Full-Stack + QA Automation + Computer Vision
 2025  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░  Spring Boot, Next.js & API Testing
 2024  ▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░  Backend Development & Frontend Integration
 2023  ▰▰▰▰▰▰▰▰░░░░░░░░░░░░  Java, PHP & Database Fundamentals
