@@ -1,27 +1,27 @@
-<!-- Header: text kiri, foto kanan -->
-<img align="right" width="280" src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/WIN_20250410_15_12_35_Pro.jpg" alt="Zafira Nur Kamila" />
-
-<h1>Hi, I'm Zafira Nur Kamila 👋</h1>
-
-<a href="https://github.com/zafiranurkamila">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&width=520&lines=Backend+Developer;Frontend+Developer;QA+Engineer;Building+robust+APIs+%26+quality+software" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=zafiranurkamila&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/zafiranurkamila?tab=followers">
-    <img src="https://img.shields.io/github/followers/zafiranurkamila?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Frontend%20%7C%20QA-6DB33F?style=flat" alt="Focus" />
-</p>
-
-**Backend • Frontend • QA Engineer** based in Indonesia 🇮🇩
-
-Passionate about building **robust APIs**, **seamless user experiences**, and **quality-driven software**. Currently exploring microservices, advanced testing frameworks, and CI/CD pipelines.
-
-📫 Reach me at **zafiranurkamila@gmail.com**
-
-<br clear="right"/>
+<!-- Header pakai table: kolom kiri = text, kolom kanan = foto -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h1>Hi, I'm Zafira Nur Kamila 👋</h1>
+      <a href="https://github.com/zafiranurkamila">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&width=520&lines=Backend+Developer;Frontend+Developer;QA+Engineer;Building+robust+APIs+%26+quality+software" alt="Typing SVG" />
+      </a>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=zafiranurkamila&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+        <a href="https://github.com/zafiranurkamila?tab=followers">
+          <img src="https://img.shields.io/github/followers/zafiranurkamila?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+        </a>
+        <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Frontend%20%7C%20QA-6DB33F?style=flat" alt="Focus" />
+      </p>
+      <p><b>Backend • Frontend • QA Engineer</b> based in Indonesia 🇮🇩</p>
+      <p>Passionate about building <b>robust APIs</b>, <b>seamless user experiences</b>, and <b>quality-driven software</b>. Currently exploring microservices, advanced testing frameworks, and CI/CD pipelines.</p>
+      <p>📫 Reach me at <b>zafiranurkamila@gmail.com</b></p>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <img width="280" src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/WIN_20250410_15_12_35_Pro.jpg" alt="Zafira Nur Kamila" />
+    </td>
+  </tr>
+</table>
 
 ---
 
