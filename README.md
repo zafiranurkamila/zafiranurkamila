@@ -1,24 +1,30 @@
-<!-- Header pakai table: kolom kiri = text, kolom kanan = foto -->
+<!-- Animated wave header for AI vibes -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zafira%20Nur%20Kamila&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="header" />
+
+<!-- Header: 2-column layout, photo vertically centered -->
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h1>Hi, I'm Zafira Nur Kamila 👋</h1>
+      <h1>Hi, I'm Zafira 👋</h1>
       <a href="https://github.com/zafiranurkamila">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&width=520&lines=Backend+Developer;Frontend+Developer;QA+Engineer;Building+robust+APIs+%26+quality+software" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&width=520&lines=Backend+Developer;Frontend+Developer;QA+Engineer;Building+robust+APIs+%26+quality+software" alt="Typing SVG" />
       </a>
       <p>
-        <img src="https://komarev.com/ghpvc/?username=zafiranurkamila&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+        <img src="https://komarev.com/ghpvc/?username=zafiranurkamila&label=Profile%20views&color=00f0ff&style=flat" alt="Profile views" />
         <a href="https://github.com/zafiranurkamila?tab=followers">
-          <img src="https://img.shields.io/github/followers/zafiranurkamila?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+          <img src="https://img.shields.io/github/followers/zafiranurkamila?label=Followers&style=flat&color=00f0ff" alt="Followers" />
         </a>
         <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Frontend%20%7C%20QA-6DB33F?style=flat" alt="Focus" />
       </p>
       <p><b>Backend • Frontend • QA Engineer</b> based in Indonesia 🇮🇩</p>
       <p>Passionate about building <b>robust APIs</b>, <b>seamless user experiences</b>, and <b>quality-driven software</b>. Currently exploring microservices, advanced testing frameworks, and CI/CD pipelines.</p>
-      <p>📫 Reach me at <b>zafiranurkamila@gmail.com</b></p>
+      <p>📫 <b>zafiranurkamila@gmail.com</b></p>
     </td>
-    <td width="35%" valign="top" align="center">
-      <img width="280" src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/WIN_20250410_15_12_35_Pro.jpg" alt="Zafira Nur Kamila" />
+    <td width="35%" valign="middle" align="center">
+      <img width="260" style="border-radius: 12px;" src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamilaa/main/WIN_20250410_15_12_35_Pro.jpg" alt="Zafira Nur Kamila" />
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/zafiranurkamila/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="mailto:zafiranurkamila@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -54,9 +60,9 @@ fun_fact: "I break things (on purpose) to make them stronger."
   <img src="https://skillicons.dev/icons?i=spring,java,php,laravel,nodejs&theme=dark" />
 </p>
 
-### Frontend
+### Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,flutter,html,css&theme=dark" />
 </p>
 
 ### QA & Testing
@@ -70,6 +76,11 @@ fun_fact: "I break things (on purpose) to make them stronger."
   <img src="https://img.shields.io/badge/Manual_Testing-0078D4?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </p>
 
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+</p>
+
 ### Database
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
@@ -77,7 +88,7 @@ fun_fact: "I break things (on purpose) to make them stronger."
 
 ### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,docker,postman&theme=dark" />
 </p>
 
 ---
@@ -100,6 +111,20 @@ fun_fact: "I break things (on purpose) to make them stronger."
       <p><b>Stack:</b> Laravel 12, Next.js 14, PostgreSQL, PHPUnit, Google Generative AI</p>
     </td>
     <td width="50%" valign="top">
+      <h3>Woundify — AI Wound Classification (Full-Stack Mobile) 🤖</h3>
+      <p>
+        <a href="https://github.com/zafiranurkamila/woundify">
+          <img src="https://img.shields.io/badge/Backend-Java-ED8B00?style=flat-square&logo=openjdk" />
+          <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter" />
+          <img src="https://img.shields.io/badge/AI-Python-3776AB?style=flat-square&logo=python" />
+        </a>
+      </p>
+      <p>Aplikasi mobile full-stack untuk klasifikasi jenis luka menggunakan deep learning. AI-powered wound detection dengan realtime inference dari kamera user, integrated dengan backend Java untuk data management.</p>
+      <p><b>Stack:</b> Java (Backend), Flutter (Mobile), Python + TensorFlow (AI Model)</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>BooQu — Library Management API</h3>
       <p>
         <a href="https://github.com/zafiranurkamila/booqu-spring-restful-api">
@@ -112,8 +137,6 @@ fun_fact: "I break things (on purpose) to make them stronger."
       <p>Sistem manajemen perpustakaan production-ready dengan Spring Boot. Book loan management, JWT authentication, overdue tracking, RESTful endpoints dengan validation & error handling menyeluruh.</p>
       <p><b>Stack:</b> Spring Boot, JPA/Hibernate, PostgreSQL, Spring Security, Maven</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>TeluCup — Tournament Platform</h3>
       <p>
@@ -123,16 +146,6 @@ fun_fact: "I break things (on purpose) to make them stronger."
       </p>
       <p>Backend platform tournament dengan Laravel + Blade. Handling match scheduling, team registration, dan bracket management.</p>
       <p><b>Stack:</b> PHP, Laravel, Blade, MySQL</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Woundify — Wound Classification</h3>
-      <p>
-        <a href="https://github.com/zafiranurkamila/woundify">
-          <img src="https://img.shields.io/badge/ML-Python-3776AB?style=flat-square&logo=python" />
-        </a>
-      </p>
-      <p>Computer vision project untuk klasifikasi jenis luka menggunakan deep learning. Model training pipeline lengkap dengan evaluation & inference.</p>
-      <p><b>Stack:</b> Python, TensorFlow/PyTorch, OpenCV</p>
     </td>
   </tr>
   <tr>
@@ -170,16 +183,21 @@ fun_fact: "I break things (on purpose) to make them stronger."
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zafiranurkamila&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=fff" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zafiranurkamila&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00F0FF&text_color=fff" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zafiranurkamila&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zafiranurkamila&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafiranurkamila&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zafiranurkamila&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</div>
+
+<!-- AI-style animated activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafiranurkamila&custom_title=Coding%20Activity%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=00F0FF" width="98%" />
 </div>
 
 ---
@@ -187,7 +205,7 @@ fun_fact: "I break things (on purpose) to make them stronger."
 ## Development Journey
 
 ```
-2026  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Full-Stack + QA Automation + Computer Vision
+2026  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Full-Stack + QA Automation + AI/Mobile
 2025  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░  Spring Boot, Next.js & API Testing
 2024  ▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░  Backend Development & Frontend Integration
 2023  ▰▰▰▰▰▰▰▰░░░░░░░░░░░░  Java, PHP & Database Fundamentals
@@ -219,6 +237,5 @@ fun_fact: "I break things (on purpose) to make them stronger."
   <i>"Quality is not an act, it is a habit." — Aristotle</i>
 </p>
 
-<p align="center">
-  Made with care by <b>Zafira Nur Kamila</b>
-</p>
+<!-- Animated wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
