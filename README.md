@@ -188,11 +188,11 @@ fun_fact: "I break things (on purpose) to make them stronger."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zafiranurkamila&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF" />
+  <img src="https://streak-stats.demolab.com?user=zafiranurkamila&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafiranurkamila&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zafiranurkamila&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <!-- AI-style animated activity graph -->
