@@ -208,6 +208,16 @@ fun_fact: "You can explore my portfolio and play mini games in it 🎮"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafiranurkamila&custom_title=Coding%20Activity%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=00F0FF" width="98%" />
 </div>
 
+## Contribution Snake 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamila/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamila/output/snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/zafiranurkamila/zafiranurkamila/output/snake-dark.svg" />
+  </picture>
+</p>
+
 ## Journey
 
 ```
@@ -237,6 +247,10 @@ fun_fact: "You can explore my portfolio and play mini games in it 🎮"
 
 <p align="center">
   <i>"We are what we repeatedly do." Aristotle</i>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Pixel Zafira clears the course and enters the castle" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
