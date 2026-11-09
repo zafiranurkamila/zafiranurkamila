@@ -16,7 +16,7 @@
         </a>
       </p>
       <p>A final year student from Indonesia 🇮🇩 who loves building things end to end: APIs, web and mobile apps, automated tests, and deep learning models.</p>
-      <p>Right now I'm wrapping up my thesis on <b>PVC localization from 12 lead ECG signals using CNNs</b>, and building a <b>3D voxel village portfolio</b> for fun.</p>
+      <p>Right now I'm wrapping up my thesis on <b>PVC origin localization from 12 lead ECGs</b>, fusing a fine-tuned ECG foundation model with a spectral CNN, and building a <b>3D voxel village portfolio</b> for fun.</p>
       <p>📫 <b>zafiranurkamila@gmail.com</b></p>
     </td>
     <td width="35%" valign="middle" align="center">
@@ -34,7 +34,7 @@
 name: Zafira Nur Kamila
 location: Indonesia
 currently_working_on:
-  - "Thesis: PVC localization (RVOT vs LVOT) with CNN + PSD, Wavelet & HOS features"
+  - "Thesis: HyFusion, PVC origin localization (RVOT vs LVOT) fusing a fine-tuned ECG foundation model with a PSD + Wavelet CNN"
   - "An interactive 3D portfolio built with React Three Fiber"
 experience:
   - "Building REST APIs with Laravel and Spring Boot"
@@ -88,15 +88,15 @@ fun_fact: "You can explore my portfolio and play mini games in it 🎮"
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🫀 PVC Localization with CNN</h3>
+      <h3>🫀 HyFusion: PVC Origin Localization</h3>
       <p>
         <a href="https://github.com/zafiranurkamila/pvc-localization-cnn">
           <img src="https://img.shields.io/badge/Research-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
           <img src="https://img.shields.io/badge/Thesis-2026-6C63FF?style=flat-square" />
         </a>
       </p>
-      <p>Compares <b>PSD, Wavelet (CWT) and Higher Order Statistics</b> features in a multi branch CNN to find where PVCs originate (RVOT vs LVOT) from 12 lead ECGs of 329 patients. Uses patient level 5 fold CV, multi seed runs, bootstrap confidence intervals and SHAP for explainability. The best model (PSD + Wavelet) reaches a <b>Macro F1 of 0.876</b> on the test set.</p>
-      <p><b>Stack:</b> Python, PyTorch, SciPy, PyWavelets, scikit learn, SHAP</p>
+      <p>Fuses a fine-tuned <b>ECG foundation model (ECGFounder)</b> with a <b>PSD + Wavelet (CWT) CNN</b> to find where PVCs originate (RVOT vs LVOT) from 12 lead ECGs, and refers uncertain patients instead of guessing. In nested patient level cross validation on 329 patients it reaches a <b>Macro F1 of 0.883 and AUC of 0.961</b> (Macro F1 0.917 on the 93.1% of patients it classifies), and it was also evaluated on 106 patients from a second centre. Manuscript submitted to a journal.</p>
+      <p><b>Stack:</b> Python, PyTorch, SciPy, PyWavelets, scikit learn, ECGFounder</p>
     </td>
     <td width="50%" valign="top">
       <h3>🏡 Voxel Village Portfolio</h3>
@@ -204,10 +204,6 @@ fun_fact: "You can explore my portfolio and play mini games in it 🎮"
   <img src="https://streak-stats.demolab.com?user=zafiranurkamila&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafiranurkamila&custom_title=Coding%20Activity%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=00F0FF" width="98%" />
-</div>
-
 ## Contribution Snake 🐍
 
 <p align="center">
@@ -221,7 +217,7 @@ fun_fact: "You can explore my portfolio and play mini games in it 🎮"
 ## Journey
 
 ```
-2026  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Thesis (ECG + CNN + XAI), 3D portfolio, Woundify
+2026  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Thesis (HyFusion: ECG foundation model + CNN), 3D portfolio, Woundify
 2025  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░  Spring Boot, Next.js, YOLOv8 & API testing
 2024  ▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░  Laravel, web development & frontend integration
 2023  ▰▰▰▰▰▰▰▰░░░░░░░░░░░░  Java, PHP, C++ & database fundamentals
